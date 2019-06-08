@@ -1,5 +1,5 @@
 {
-    "name":        "Sedona-PHP/sylius",
+    "name":        "sylius/sylius",
     "type":        "project",
     "description": "Modern ecommerce for Symfony2",
     "license":     "MIT",
@@ -41,9 +41,9 @@
         "sensio/distribution-bundle":           "2.3.*",
         "stof/doctrine-extensions-bundle":      "1.2.*",
         "symfony/assetic-bundle":               "~2.8",
-        "symfony/monolog-bundle":               "~2.8",
+        "symfony/monolog-bundle":               ">=3.1.2",
         "symfony/swiftmailer-bundle":           "~2.3",
-        "symfony/symfony":                      "~2.8",
+        "symfony/symfony":                      "^2.8",
         "twig/extensions":                      "1.0.*",
         "white-october/pagerfanta-bundle":      "~1.0",
         "winzou/state-machine-bundle":          "~0.1.2",
